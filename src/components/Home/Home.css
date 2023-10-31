@@ -1,0 +1,24 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3rem;
+    
+
+}
+
+.slide{
+    display: flex;
+    justify-content: center;
+    /* background-color: white; */
+    margin-top:3rem ;
+    width: 70%;
+}
+.rectangles{
+    background-color: red;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
+

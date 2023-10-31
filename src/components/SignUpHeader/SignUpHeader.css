@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.header>div{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+}
+.button{
+    padding: 12px 16px;
+    width: 10rem;
+    height: 3rem;
+    font-size: 14px;
+    color: #ffff;
+    gap: 8px;
+    border-radius: 8px;
+    background: #F01C21;
+}
